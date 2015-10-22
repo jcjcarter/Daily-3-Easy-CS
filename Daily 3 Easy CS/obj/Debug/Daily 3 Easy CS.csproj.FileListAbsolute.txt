@@ -1,0 +1,7 @@
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 3 Easy CS\Daily 3 Easy CS\bin\Debug\Daily 3 Easy CS.exe.config
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 3 Easy CS\Daily 3 Easy CS\bin\Debug\Daily 3 Easy CS.exe
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 3 Easy CS\Daily 3 Easy CS\bin\Debug\Daily 3 Easy CS.pdb
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 3 Easy CS\Daily 3 Easy CS\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 3 Easy CS\Daily 3 Easy CS\obj\Debug\Daily 3 Easy CS.csprojResolveAssemblyReference.cache
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 3 Easy CS\Daily 3 Easy CS\obj\Debug\Daily 3 Easy CS.exe
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 3 Easy CS\Daily 3 Easy CS\obj\Debug\Daily 3 Easy CS.pdb
